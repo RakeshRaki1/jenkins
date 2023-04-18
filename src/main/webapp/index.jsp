@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! this is my editing </h2>
+<h2>Hello World! done the pratice for now</h2>
 </body>
 </html>
